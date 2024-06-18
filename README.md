@@ -1,2 +1,2 @@
 
-Live demo [Nuxt CRM](https://crm-nuxt3-iota.vercel.app/)
+Live demo [Nuxt CRM](https://crm-nuxt3-wheat.vercel.app/)
